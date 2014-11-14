@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/102/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>balance</title>
+    <link>https://www.paragon.fi/taxonomy/term/102/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Symbiosis and raid balance</title>
+    <link>https://www.paragon.fi/blogs/symbiosis-and-raid-balance</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The point of this blog post is to reflect on the consequences of Symbiosis in the 25-man raiding scene, not to whine about Blizzard&#039;s not yet finished decisions. As said, a lot of this probably will be changed when MoP hits live servers, but it&#039;s important to recognize the problems (and advantages) of the situation already.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Apr 2012 14:27:12 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">1039 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>The not so popular arena setups</title>
+    <link>https://www.paragon.fi/blogs/not-so-popular-arena-setups</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;
+	While I&#039;ve been busy getting familiar with the top 3vs3 teams of the arena ladder, I&#039;ve noticed things that have been known in the arena community for ages already: which classes are doing good on the games and so are fotm (flavor of the month), and are so most represented in the high end games. I wanted to know a bit more about the whole deal and decided to talk to Verdisha and Kolori, who know about arena, and of course have multiple gladiator titles from various seasons.&lt;/p&gt;
+&lt;p&gt;
+	 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 19 Jun 2011 12:25:06 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">555 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

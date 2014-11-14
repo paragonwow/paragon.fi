@@ -1,0 +1,2 @@
+(function($){Drupal.behaviors.prevnext={attach:function(context){$(document).keydown(function(event){if(event.which=='39'){if($('li.previous a').length>0){window.location.href=$('li.previous a').attr('href');}}
+if(event.which=='37'){if($('li.next a').length>0){window.location.href=$('li.next a').attr('href');}}});}};})(jQuery);

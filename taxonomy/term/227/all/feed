@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/227/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>website</title>
+    <link>https://www.paragon.fi/taxonomy/term/227/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Cookies fix for website</title>
+    <link>https://www.paragon.fi/news/cookies-fix-website</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We recently changed our server and at the moment there is a problem with cookies. To fix this, you can either manually delete your cookies, or click the &lt;a href=&quot;http://www.paragon.fi/cookies.php&quot;&gt;following link&lt;/a&gt; that will do it for you.&lt;/p&gt;
+&lt;p&gt;If you continue to have problems with the logins, please send us email to paragon [at] paragon dot fi and we&#039;ll look into it.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;website&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;fix&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;General&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 08 Dec 2011 14:18:01 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">969 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>Website design changes</title>
+    <link>https://www.paragon.fi/news/website-design-changes</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;As you probably have noticed, we have done some tweaking and polishing around the site to make it more accessible and readable. There is still work to be done, and all the features haven&#039;t been completed yet. We&#039;ll add more as we go along. We hope you enjoy the design.&lt;/p&gt;
+&lt;p&gt;And remember, &lt;a href=&quot;http://www.paragon.fi/forum/viewtopic.php?f=4&amp;amp;t=464&quot;&gt;feedback&lt;/a&gt; is always welcome and appreciated.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;website&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;design&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-2&quot;&gt;changes&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;General&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 27 Nov 2011 12:52:06 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">949 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

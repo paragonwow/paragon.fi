@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/191/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>kyy</title>
+    <link>https://www.paragon.fi/taxonomy/term/191/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Enjoy the summer</title>
+    <link>https://www.paragon.fi/blogs/enjoy-summer</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a small summer update about what&#039;s going on in the guild at the moment. And have a great summer btw!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 18 Jun 2012 16:28:31 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">1050 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>Shadow Priest Guide for 4.3 Normal Modes</title>
+    <link>https://www.paragon.fi/guides/shadow-priest-guide-43-normal-modes</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a shadow priest guide for Dragon Soul normal modes. We won&#039;t be focusing on the rotation or theorycraft part of the class. We rather take a look at how the encounters look like as a whole, and what kind of thins our fellow shadow priests should keep in mind when going to pull the boss for the first time. I (xenophics) and Kyy wish that this guide will help you with the upcoming raids starting on next Tuesday/Wednesday.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;patch 4.3&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;shadow priest&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-2&quot;&gt;xenophics&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-3&quot;&gt;kyy&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-4&quot;&gt;guide&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-5&quot;&gt;dragon soul&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-6&quot;&gt;4.3 guide&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;Dragon Soul Shadow Priest Guide&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 27 Nov 2011 16:10:13 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">950 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

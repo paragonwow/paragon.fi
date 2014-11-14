@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/56/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>4.1</title>
+    <link>https://www.paragon.fi/taxonomy/term/56/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>[4.1] Destruction - Basics guide by Manni</title>
+    <link>https://www.paragon.fi/guides/41-destruction-basics-guide-manni</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;
+	&lt;em&gt;Disclaimer: I know there are plenty of guides to go around with, but I felt like I might be able to put up something useful, and at the very least, have something I can refer people to so I don&#039;t have to explain this stuff over and over again to everyone who asks. I do intend to cover mostly only the very basics you need to know to play Destruction, with some slighty advanced stuff here and there, because it&#039;s the basic stuff I get asked the most and surprisingly many don&#039;t know that well. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;warlock&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;guide&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-2&quot;&gt;destruction&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-3&quot;&gt;4.1&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;General&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 24 Apr 2011 11:51:46 +0000</pubDate>
+ <dc:creator>Hermanni</dc:creator>
+ <guid isPermaLink="false">494 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.paragon.fi/forum/feed.php?mode=forums" />
+
+<title>Paragon</title>
+<link href="http://www.paragon.fi/forum/index.php" />
+<updated>2015-09-22T15:09:39+00:00</updated>
+
+<author><name><![CDATA[Paragon]]></name></author>
+<id>http://www.paragon.fi/forum/feed.php?mode=forums</id>
+<entry>
+<updated>2015-09-14T01:43:20+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=4</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=4"/>
+<title type="html"><![CDATA[General Discussion]]></title>
+
+<category term="General Discussion" scheme="http://www.paragon.fi/forum/viewforum.php?f=4" label="General Discussion"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=4"><![CDATA[
+<p>Statistics: Total topics <strong>673</strong> — Total posts <strong>3862</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2015-09-22T15:09:39+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=20</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=20"/>
+<title type="html"><![CDATA[UIs &amp; Macros]]></title>
+
+<category term="UIs &amp; Macros" scheme="http://www.paragon.fi/forum/viewforum.php?f=20" label="UIs &amp; Macros"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=20"><![CDATA[
+<p>Statistics: Total topics <strong>224</strong> — Total posts <strong>1579</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2015-03-20T16:37:41+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=21</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=21"/>
+<title type="html"><![CDATA[Off-Topic]]></title>
+
+<category term="Off-Topic" scheme="http://www.paragon.fi/forum/viewforum.php?f=21" label="Off-Topic"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=21"><![CDATA[
+<p>Statistics: Total topics <strong>102</strong> — Total posts <strong>496</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2014-11-21T10:39:13+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=34</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=34"/>
+<title type="html"><![CDATA[General Class Discussion]]></title>
+
+<category term="General Class Discussion" scheme="http://www.paragon.fi/forum/viewforum.php?f=34" label="General Class Discussion"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=34"><![CDATA[
+<p>Statistics: Total topics <strong>37</strong> — Total posts <strong>183</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2012-07-21T12:11:27+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=25</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=25"/>
+<title type="html"><![CDATA[Death Knight]]></title>
+
+<category term="Death Knight" scheme="http://www.paragon.fi/forum/viewforum.php?f=25" label="Death Knight"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=25"><![CDATA[
+<p>Statistics: Total topics <strong>163</strong> — Total posts <strong>938</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2015-02-02T04:45:42+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=29</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=29"/>
+<title type="html"><![CDATA[Druid]]></title>
+
+<category term="Druid" scheme="http://www.paragon.fi/forum/viewforum.php?f=29" label="Druid"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=29"><![CDATA[
+<p>Statistics: Total topics <strong>314</strong> — Total posts <strong>1128</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2013-10-13T12:49:11+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=28</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=28"/>
+<title type="html"><![CDATA[Hunter]]></title>
+
+<category term="Hunter" scheme="http://www.paragon.fi/forum/viewforum.php?f=28" label="Hunter"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=28"><![CDATA[
+<p>Statistics: Total topics <strong>245</strong> — Total posts <strong>1424</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2013-03-06T10:49:25+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=33</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=33"/>
+<title type="html"><![CDATA[Mage]]></title>
+
+<category term="Mage" scheme="http://www.paragon.fi/forum/viewforum.php?f=33" label="Mage"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=33"><![CDATA[
+<p>Statistics: Total topics <strong>138</strong> — Total posts <strong>765</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2014-06-20T19:52:03+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=30</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=30"/>
+<title type="html"><![CDATA[Paladin]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=30"><![CDATA[
+<p>Statistics: Total topics <strong>226</strong> — Total posts <strong>1088</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2015-05-28T00:08:59+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=35</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=35"/>
+<title type="html"><![CDATA[Priest]]></title>
+
+<category term="Priest" scheme="http://www.paragon.fi/forum/viewforum.php?f=35" label="Priest"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=35"><![CDATA[
+<p>Statistics: Total topics <strong>175</strong> — Total posts <strong>1371</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2012-12-13T02:43:16+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=26</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=26"/>
+<title type="html"><![CDATA[Rogue]]></title>
+
+<category term="Rogue" scheme="http://www.paragon.fi/forum/viewforum.php?f=26" label="Rogue"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=26"><![CDATA[
+<p>Statistics: Total topics <strong>144</strong> — Total posts <strong>706</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2013-03-28T07:53:50+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=32</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=32"/>
+<title type="html"><![CDATA[Shaman]]></title>
+
+<category term="Shaman" scheme="http://www.paragon.fi/forum/viewforum.php?f=32" label="Shaman"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=32"><![CDATA[
+<p>Statistics: Total topics <strong>85</strong> — Total posts <strong>324</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2014-11-08T22:16:08+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=31</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=31"/>
+<title type="html"><![CDATA[Warlock]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=31"><![CDATA[
+<p>Statistics: Total topics <strong>240</strong> — Total posts <strong>1074</strong></p><hr />
+]]></content>
+</entry>
+<entry>
+<updated>2013-10-09T06:14:38+00:00</updated>
+<id>http://www.paragon.fi/forum/viewforum.php?f=27</id>
+<link href="http://www.paragon.fi/forum/viewforum.php?f=27"/>
+<title type="html"><![CDATA[Warrior]]></title>
+
+<category term="Warrior" scheme="http://www.paragon.fi/forum/viewforum.php?f=27" label="Warrior"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewforum.php?f=27"><![CDATA[
+<p>Statistics: Total topics <strong>104</strong> — Total posts <strong>383</strong></p><hr />
+]]></content>
+</entry>
+</feed>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/17/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>ptr</title>
+    <link>https://www.paragon.fi/taxonomy/term/17/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Dungeon Journals: What&#039;s the big fuss?</title>
+    <link>https://www.paragon.fi/blogs/dungeon-journals-whats-big-fuss</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;So the Public Test Realm is back. Yay! It&#039;s like getting to pre-open our Christmas presents! Or get a sneak peek at the final exam questions from our &quot;Intro to Quantum Mechanics&quot; course. Or like finding out what you&#039;re going to look like in 20 years.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 May 2011 08:40:54 +0000</pubDate>
+ <dc:creator>Ladan</dc:creator>
+ <guid isPermaLink="false">500 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>Firelands Sneak Peek: Ragnaros, the Firelord</title>
+    <link>https://www.paragon.fi/news/firelands-sneak-peek-ragnaros-firelord</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;
+	(April Fools&#039; 2011)&lt;/p&gt;
+&lt;p&gt;
+	As many of you have been suspecting, we have been playing on Blizzard’s private Test Realm (pTR) for quite some time now doing specialized raid encounter testing. We have had the chance to test all of the 7 encounters in the Firelands raid instance coming in patch 4.2, and wanted to give a small sneak peek of the upcoming content.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;ptr&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;ragnaros&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;ragnaros&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 31 Mar 2011 23:04:00 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">255 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

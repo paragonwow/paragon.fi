@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.paragon.fi/forum/feed.php?f=31" />
+
+<title>Paragon</title>
+<link href="http://www.paragon.fi/forum/index.php" />
+<updated>2014-11-08T22:16:08+00:00</updated>
+
+<author><name><![CDATA[Paragon]]></name></author>
+<id>http://www.paragon.fi/forum/feed.php?f=31</id>
+<entry>
+<author><name><![CDATA[Natobob]]></name></author>
+<updated>2014-11-08T22:16:08+00:00</updated>
+<published>2014-11-08T22:16:08+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4458&amp;p=19973#p19973</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4458&amp;p=19973#p19973"/>
+<title type="html"><![CDATA[Warlock • Lunyy weakauras]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4458&amp;p=19973#p19973"><![CDATA[
+Hi Lunyy<br /><br />I was wondering if you would be so kind to share your weakaura strings with us ;)<br /><br />Thats all chief, gl in WoD<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=6958">Natobob</a> — 08 Nov 2014 22:16</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[styggan]]></name></author>
+<updated>2013-04-30T09:47:45+00:00</updated>
+<published>2013-04-30T09:47:45+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19741#p19741</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19741#p19741"/>
+<title type="html"><![CDATA[Warlock • Re: Multi Dotting]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19741#p19741"><![CDATA[
+Use your boss frame / focus frame<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=7580">styggan</a> — 30 Apr 2013 09:47</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Ivanoize]]></name></author>
+<updated>2013-04-28T23:36:06+00:00</updated>
+<published>2013-04-28T23:36:06+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4353&amp;p=19732#p19732</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4353&amp;p=19732#p19732"/>
+<title type="html"><![CDATA[Warlock • Destruction]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4353&amp;p=19732#p19732"><![CDATA[
+I've recently speced in Destruction and have read many guides and I'm still confused about the correct usage of Rain of Fire and Conflagrate. It's possible to an experient warlock describe the right priority of Destruction(single target)?<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=1700">Ivanoize</a> — 28 Apr 2013 23:36</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Daewyn]]></name></author>
+<updated>2013-04-08T07:06:45+00:00</updated>
+<published>2013-04-08T07:06:45+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19649#p19649</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19649#p19649"/>
+<title type="html"><![CDATA[Warlock • Re: Multi Dotting]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19649#p19649"><![CDATA[
+I'm personally not using any addon to track dots on multiple targets, after playing a warlock for more than 6 years you can pretty much just guess/feel when the timing is right for a refresh. I have to admit that it's not completely optimized playstyle and it's probably not working for someone who hasn't spent 10000 hours playing a warlock but on the other hand there really aren't fights where you actually need to track your dots on 3 - 4 targets (there are several multi dot situations but in most cases the targets are dead before you need to refresh). Even on Council, which is pretty perfect example of the situation you described, you have targets with higher and lower priority, meaning that you should probably focus on single target dps more than keeping perfect uptime on all 4 targets.<br /><br />To make it short, for 2 targets I have target frame and focus frame, anything more than that I just play with my gut feeling. I don't find it very practical to follow 4 different timer sets while actually executing the encounter but of course there are people who might feel differently :)<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=5496">Daewyn</a> — 08 Apr 2013 07:06</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Ivanoize]]></name></author>
+<updated>2013-04-07T03:03:47+00:00</updated>
+<published>2013-04-07T03:03:47+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19643#p19643</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19643#p19643"/>
+<title type="html"><![CDATA[Warlock • Multi Dotting]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4288&amp;p=19643#p19643"><![CDATA[
+I got a question regarding this, if in a fight with 3-4 bosses and you need to keep your dots rolling on them, how you can track all your dots if you arent using an addon like fortexorcist to do this?<br /><br />I've saw many warlocks using just an simple addon like classtimer to track one target for example.<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=1700">Ivanoize</a> — 07 Apr 2013 03:03</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Ragnalok]]></name></author>
+<updated>2013-03-28T14:25:22+00:00</updated>
+<published>2013-03-28T14:25:22+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19616#p19616</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19616#p19616"/>
+<title type="html"><![CDATA[Warlock • Re: What am i doing wrong as afflic?]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19616#p19616"><![CDATA[
+Gem haste over mastery<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9598">Ragnalok</a> — 28 Mar 2013 14:25</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[skrash]]></name></author>
+<updated>2013-03-06T07:37:23+00:00</updated>
+<published>2013-03-06T07:37:23+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19558#p19558</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19558#p19558"/>
+<title type="html"><![CDATA[Warlock • Re: What am i doing wrong as afflic?]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=3696&amp;p=19558#p19558"><![CDATA[
+same problem here...;/<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9538">skrash</a> — 06 Mar 2013 07:37</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[styggan]]></name></author>
+<updated>2013-03-01T10:21:39+00:00</updated>
+<published>2013-03-01T10:21:39+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19547#p19547</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19547#p19547"/>
+<title type="html"><![CDATA[Warlock • Re: Demon 5.2]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19547#p19547"><![CDATA[
+ye, was on the text server and tryd it out. Was so mutch fun and it took me back to the ds time, love to pop the demon :D. but i hope its like you say that all 3 specc will be usefull sometimes. playing warlock is so utch fun but like it have been now its Destro one exp and then come affi and now last before panda was demon.<br /><br />Thx for the fast awnser :)<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=7580">styggan</a> — 01 Mar 2013 10:21</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Daewyn]]></name></author>
+<updated>2013-03-01T08:27:41+00:00</updated>
+<published>2013-03-01T08:27:41+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19546#p19546</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19546#p19546"/>
+<title type="html"><![CDATA[Warlock • Re: Demon 5.2]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19546#p19546"><![CDATA[
+I am pretty sure that demonology will be a viable option on certain fights but I don't have enough data to compare it with affliction currently. My guess is that all 3 warlock specs will have their moments, hard to tell just yet which one performs best overall.<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=5496">Daewyn</a> — 01 Mar 2013 08:27</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[styggan]]></name></author>
+<updated>2013-02-28T15:36:13+00:00</updated>
+<published>2013-02-28T15:36:13+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19542#p19542</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19542#p19542"/>
+<title type="html"><![CDATA[Warlock • Demon 5.2]]></title>
+
+<category term="Warlock" scheme="http://www.paragon.fi/forum/viewforum.php?f=31" label="Warlock"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4258&amp;p=19542#p19542"><![CDATA[
+Just wondering what you guys think abut the demon-specc in 5.2 ? lookt at in in pach note and sens it get a bit bufft. have any1 here play and how does it compare to afi specc? more dps or?<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=7580">styggan</a> — 28 Feb 2013 15:36</p><hr />
+]]></content>
+</entry>
+</feed>

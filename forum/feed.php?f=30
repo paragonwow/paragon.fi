@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.paragon.fi/forum/feed.php?f=30" />
+
+<title>Paragon</title>
+<link href="http://www.paragon.fi/forum/index.php" />
+<updated>2014-06-20T19:52:03+00:00</updated>
+
+<author><name><![CDATA[Paragon]]></name></author>
+<id>http://www.paragon.fi/forum/feed.php?f=30</id>
+<entry>
+<author><name><![CDATA[Klyppa]]></name></author>
+<updated>2014-06-20T19:52:03+00:00</updated>
+<published>2014-06-20T19:52:03+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4451&amp;p=19961#p19961</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4451&amp;p=19961#p19961"/>
+<title type="html"><![CDATA[Paladin • Holy paladin challenge modes]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4451&amp;p=19961#p19961"><![CDATA[
+Hey there<br /><br />Wondered if some of you could help with explaining the stat priority for holy paladins in challenge modes?<br />I've read on different sites and some says crit/Spirit and others say haste<br /><br />regards<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=8145">Klyppa</a> — 20 Jun 2014 19:52</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[fragi]]></name></author>
+<updated>2014-03-11T10:54:16+00:00</updated>
+<published>2014-03-11T10:54:16+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19947#p19947</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19947#p19947"/>
+<title type="html"><![CDATA[Paladin • Re: Question to Fraggoji - Tanking Garrosh]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19947#p19947"><![CDATA[
+Sup, <br /><br />has been a while since I last killed Garrosh on normal. On our farm kills the adds don't really do much anymore so can't really give tips based on my personal play. You have a pretty high ilvl for normal Garrosh so things should go pretty smoothly though I can imagine tanking the adds + boss after Warsong without cooldowns would still hurt as you said.<br /><br />The one tanking the boss will always end up with the higher vengeance so naturally that tank will pull aggro on the adds eventually. I think the simple solution there is just having the other tank taunting of Garrosh after that happens if you don't have enough cooldowns to survive taking all the heat, with the extra aggro from taunt this should be easy enough. <br /><br />As far as other tips go I noticed you have the retri tierchest, protection pieces are quite well itemized this tier and the prot 4p is pretty sweet especially with Divine purpose so I think you should aim for that. I wouldn't really use Hand of Purity for any fights either as Unbreakable Spirit is really strong from that tier of talents.<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=629">fragi</a> — 11 Mar 2014 10:54</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Anonymous]]></name></author>
+<updated>2014-03-10T12:56:45+00:00</updated>
+<published>2014-03-10T12:56:45+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19941#p19941</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19941#p19941"/>
+<title type="html"><![CDATA[Paladin • Question to Fraggoji - Tanking Garrosh]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4435&amp;p=19941#p19941"><![CDATA[
+Hi Fraggoji,<br /><br />I have already killed Garrosh on normal so my question will be how to optimize tanking rather than how to tank. <br /><br />Little bit about how we do it:<br /><br />I start off by tanking Garrosh whilst the off-tank picks up adds and brings them to Garrosh. Eventually my Vengance takes over and i get all adds on me.<br /><br />Case/Question: <br /><br />This causes huge problems as i find my self taking crap ton of damage, specially during Warsong. I try to manage my cooldowns, but i always find myself at the edge of being killed, barely making it out. I have come to the conclusion that since we stack haste, self healing and cd management is the way to go as we practically have no CTC at the level of gear i'm at.<br /><br />Do you have some tips regarding the Garrosh fight in regards to tanking it as a Paladin? Do you also end up taking all the adds + boss, or do you go for a single target rotation letting the adds stay on the off tank?<br /><br />If you do it like I do it, how do you keep yourself on a safe HP level?<br /><br />Here is my armory link:<br /><!-- m --><a class="postlink" href="http://eu.battle.net/wow/en/character/frostwhisper/%C3%82ggro/simple">http://eu.battle.net/wow/en/character/f ... gro/simple</a><!-- m --><br /><br />Here is my WoL link from last night:<br /><!-- m --><a class="postlink" href="http://worldoflogs.com/reports/rt-os8k2do58wgu1l1x/details/15/">http://worldoflogs.com/reports/rt-os8k2 ... etails/15/</a><!-- m --><br /><br />Feel free to also comment on other fuckups(excuse my french) i've made if you see any and have time to comment on them. Thanks in advance.<br /><br />-Aggro<p>Statistics: Posted by Guest — 10 Mar 2014 12:56</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Callard]]></name></author>
+<updated>2013-08-17T12:49:08+00:00</updated>
+<published>2013-08-17T12:49:08+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19828#p19828</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19828#p19828"/>
+<title type="html"><![CDATA[Paladin • Re: Paladin discussion]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19828#p19828"><![CDATA[
+Hey there <br /><br />Question for Fraggoji regarding the use of legendary cloak and meta gem for 5.4.<br /><br />Do you think for 10 man it is finally worth using the Tank meta and legendary cloak for the next tier of raiding? Considering the proc chance nerfs for people using the dps cloak and meta gem in Tank spec by 40%<br /><br />Is it worth only swapping one or both? Like using dps gem/tank cloak (or visa/versa).<br /><br />What are your thoughts on these changes and do you think that the tanking legendaries will finally be forced onto us?<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9505">Callard</a> — 17 Aug 2013 12:49</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Jeddy]]></name></author>
+<updated>2013-05-24T11:17:26+00:00</updated>
+<published>2013-05-24T11:17:26+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19756#p19756</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19756#p19756"/>
+<title type="html"><![CDATA[Paladin • Re: Holy Paladin 5.3 Nerfs]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19756#p19756"><![CDATA[
+Sorry I aint no Smirk, he was smart enough to go MW Monk.<br /><br />But yes the mastery nerf is Fing huge, its still the best stat by far though.<br /><br />BoL buff from 4p is unnoticeable in my fights so far and the gloves and leg off piece from durumu and animus are too good to miss.<br /><br />As for blanket EoF I only raid 25 and it hasn't been viable there for a while now, it would be impossible now unless maybe when you can melee the whole fight.<br /><br />I use HA on every fight, even when the damage is moderately low 2M CD isn't bad.<br /><br />Only fight I would recommend hammer is for magera, prism is better for every other boss.<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9607">Jeddy</a> — 24 May 2013 11:17</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Irial]]></name></author>
+<updated>2013-05-16T18:18:21+00:00</updated>
+<published>2013-05-16T18:18:21+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4366&amp;p=19754#p19754</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4366&amp;p=19754#p19754"/>
+<title type="html"><![CDATA[Paladin • Holy Paly T14 4 Set- Worth the Stat loss?]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4366&amp;p=19754#p19754"><![CDATA[
+Hi, this question is for smirk. (Or really anyone)<br /><br />Our holy paladin, armory link below, has his T14 4 set. However it is the normal pieces and most are not upgraded. This equates to a huge stat loss in comparison to the heroic T15 tier he could be picking up. On top of this, the ilvl for his helm is so low he cannot use the legendary meta gem. <br /><br />Is it worth keeping his 4 set or should he be looking to move forward? <br /><br />Thanks,<br /><br />Irial<br /><br />Armory Link: <!-- m --><a class="postlink" href="http://us.battle.net/wow/en/character/stormscale/Lilshadooww/simple">http://us.battle.net/wow/en/character/s ... oww/simple</a><!-- m --><p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=2474">Irial</a> — 16 May 2013 18:18</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Criticism]]></name></author>
+<updated>2013-04-20T05:03:20+00:00</updated>
+<published>2013-04-20T05:03:20+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19701#p19701</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19701#p19701"/>
+<title type="html"><![CDATA[Paladin • Holy Paladin 5.3 Nerfs]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4332&amp;p=19701#p19701"><![CDATA[
+Holy<br /><br />Mastery: Illuminated Healing now places an absorb shield for 10% of the amount healed, down from 12%.<br /><br /><br />Tier-14 Holy Paladin 4-piece set bonus now reduces the cooldown of Holy Shock by 1 second, down from 2 seconds.<br /><br /><br />Buffs/Changes:<br />Daybreak is now a stackable effect with a duration of 10 seconds, stacks up to 2 times, and causes the next Holy Shock to also heal other allies within 10 yards of the target for an amount equal to 75%/150% of the original healing done.<br /><br />I also read that our Mastery scaling has been reduced by 1/6.<br /><br />To Smirk, with the changes to the 4pc will you be switching to the 2pc of the T15 and offsets for the rest? Or will you be switching to a 4pc for the BoL buff? How are these nerfs going to change gameplay in terms of EF blanketing with 1 HoPo? This will obviously reduce our HoPo regen by a ton, but I'm not quite sure how valuable the 4pc T14 will be in 5.3.<br />Do you think that the nerfs to our mastery will hurt us too much?<br /><br />EDIT: What fights do you use Divine Purpose on? Do you use HA on every fight? <br />What fights are recommended for Holy Prism over Hammer?<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9679">Criticism</a> — 20 Apr 2013 05:03</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Jeddy]]></name></author>
+<updated>2013-04-02T19:07:51+00:00</updated>
+<published>2013-04-02T19:07:51+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=4282&amp;p=19624#p19624</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=4282&amp;p=19624#p19624"/>
+<title type="html"><![CDATA[Paladin • Lei Shen?]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=4282&amp;p=19624#p19624"><![CDATA[
+Smirk has swapped to monk every kill so far? Is it really that much better for cds/hps?<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9607">Jeddy</a> — 02 Apr 2013 19:07</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Grelsey]]></name></author>
+<updated>2013-02-24T15:19:57+00:00</updated>
+<published>2013-02-24T15:19:57+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19536#p19536</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19536#p19536"/>
+<title type="html"><![CDATA[Paladin • Re: Paladin discussion]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19536#p19536"><![CDATA[
+Hey!<br />After knowing, that the Grand Crusader Procc is being changed, what stat priority are you going to use?<br />Something like Exp&gt;Hit&gt;Mastery&gt;Parry&gt;Dodge sounds good, but I think haste is not really getting weak, because it still reduces the Cooldowns/Globals.<br />And if Parry is getting stronger, Strenght is getting better as well, isn't it?<br /><br />Rooting for Paragon all the way! &lt;3<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9374">Grelsey</a> — 24 Feb 2013 15:19</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Chroy]]></name></author>
+<updated>2013-02-23T05:52:18+00:00</updated>
+<published>2013-02-23T05:52:18+00:00</published>
+<id>http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19535#p19535</id>
+<link href="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19535#p19535"/>
+<title type="html"><![CDATA[Paladin • Re: Paladin discussion]]></title>
+
+<category term="Paladin" scheme="http://www.paragon.fi/forum/viewforum.php?f=30" label="Paladin"/>
+<content type="html" xml:base="http://www.paragon.fi/forum/viewtopic.php?t=417&amp;p=19535#p19535"><![CDATA[
+<blockquote><div><cite>fragi wrote:</cite><br />Hi, thanks for the interest in my playing I still might stream more in the future just haven't felt the need to lately.<br /><br />On Wind lord you just have to use shield wall on the pull and then you should do pretty ok with the high vengeance sacred shield and rolling other cds. 1 thing you can be aware of is dodging the whirling blade he throws, it does quite a bit of burst damage.<br /></div></blockquote><br /><br />thanks for the fast answer and the tips!<br />hope to see you streaming soon =D!<p>Statistics: Posted by <a href="http://www.paragon.fi/forum/memberlist.php?mode=viewprofile&amp;u=9519">Chroy</a> — 23 Feb 2013 05:52</p><hr />
+]]></content>
+</entry>
+</feed>

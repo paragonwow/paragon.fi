@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/204/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>mop</title>
+    <link>https://www.paragon.fi/taxonomy/term/204/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Symbiosis and raid balance</title>
+    <link>https://www.paragon.fi/blogs/symbiosis-and-raid-balance</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The point of this blog post is to reflect on the consequences of Symbiosis in the 25-man raiding scene, not to whine about Blizzard&#039;s not yet finished decisions. As said, a lot of this probably will be changed when MoP hits live servers, but it&#039;s important to recognize the problems (and advantages) of the situation already.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Apr 2012 14:27:12 +0000</pubDate>
+ <dc:creator>xenophics</dc:creator>
+ <guid isPermaLink="false">1039 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>Mists of Paragonia</title>
+    <link>https://www.paragon.fi/articles/mists-paragonia</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The BlizzCon is over and the information about &lt;strong&gt;Mists of Pandaria&lt;/strong&gt; have settled. Time to ask Paragon members about their thoughts regarding the new expansion, the Pandarens and the new Monk class.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;clearfix&quot;&gt;&lt;/div&gt;
+
+&lt;ul class=&quot;prevnext clearfix&quot;&gt;
+	&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;/articles/raid-observer-dragon-soul-raiding-progress-your-day-1-update#main-content&quot;&gt;‹ next&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;previous&quot;&gt;&lt;a href=&quot;/articles/skull-guldan-lorecorner-war-ancients-trilogy#main-content&quot;&gt;previous ›&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+	&lt;hr  class=&quot;space&quot; /&gt;
+
+
+
+
+&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;mists of pandaria&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-1&quot;&gt;monk&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-2&quot;&gt;mop&lt;/li&gt;&lt;li class=&quot;taxonomy-term-reference-3&quot;&gt;pandaren&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;General&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 31 Oct 2011 09:58:10 +0000</pubDate>
+ <dc:creator>meth</dc:creator>
+ <guid isPermaLink="false">931 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>

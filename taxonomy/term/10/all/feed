@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.paragon.fi/taxonomy/term/10/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>paragon announcement</title>
+    <link>https://www.paragon.fi/taxonomy/term/10/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Recruiting</title>
+    <link>https://www.paragon.fi/news/recruiting</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Recruiting for Warlords of Draenor&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;recruiting&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;paragon announcement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Nov 2013 09:52:00 +0000</pubDate>
+ <dc:creator>Seita</dc:creator>
+ <guid isPermaLink="false">1079 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>Paragon will be switching from 25man to 10man for MoP</title>
+    <link>https://www.paragon.fi/news/paragon-will-be-switching-25man-10man-mop</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We will be switching from 25man to 10man for MoP, for more details see the entire news post.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Tags: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;10man&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;paragon announcement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Sep 2012 11:25:33 +0000</pubDate>
+ <dc:creator>Seita</dc:creator>
+ <guid isPermaLink="false">1053 at https://www.paragon.fi</guid>
+  </item>
+  <item>
+    <title>An LFR Apology</title>
+    <link>https://www.paragon.fi/news/lfr-apology</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;There has been a lot of misinformation going around, so to clear things up, here is a truthful account of what exactly happened with the LFR and what we have to say about it. The patch hit EU servers on Wednesday. We started off with our 5x Firelands runs to wrap up legendaries and called it a night. For Thursday, we had an elaborate plan to run a personal LFR raid for every main character to get the maximum amount of loot ...&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Category: &lt;/h3&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;paragon announcement&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 06 Dec 2011 05:02:06 +0000</pubDate>
+ <dc:creator>arx</dc:creator>
+ <guid isPermaLink="false">965 at https://www.paragon.fi</guid>
+  </item>
+  </channel>
+</rss>
